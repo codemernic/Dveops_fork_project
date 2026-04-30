@@ -18,6 +18,7 @@
 # Contents
 
 📚 - [Lessons](docs/contents.md)
+Thanks
 
 # Social
 
